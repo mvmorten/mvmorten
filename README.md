@@ -13,7 +13,7 @@ Currently looking for staff or principal IC roles on product-focused teams. Remo
 ### Stack
 React · TypeScript · C# / ASP.NET Core · SQL Server · Azure (Functions, Container Apps, Service Bus, DevOps) · Playwright · Docker · CI/CD
 
-AI-native every day with Claude Code and Cursor.
+AI-native every day with Claude Code.
 
 ### Elsewhere
 [Portfolio](https://mvmorten.com/portfolio) · [LinkedIn](https://www.linkedin.com/in/mvmorten)
