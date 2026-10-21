@@ -9,6 +9,7 @@ Currently looking for staff or principal IC roles on product-focused teams. Remo
 - **FinTech publishing platform:** automated cloud pipeline (C#, Azure Functions, Service Bus, Puppeteer, SQL Server) that raised output 1,000x and helped grow revenue 5x to $1M a year.
 - **React modernization:** refactored a fleet data platform's React codebase and built its test suite from 0% to 98% coverage.
 - **[Hawes](https://github.com/mvmorten/hawes):** free community mountain bike trail map with Leaflet, GPX trails, and live location. [Live site](https://hawes.mvmorten.com)
+- **[Dashboard Starter](https://github.com/mvmorten/dashboard-starter):** opinionated, open-source starter for business dashboards in React + TypeScript, ASP.NET Core, and SQL Server, built in public with a write-up of each decision.
 
 ### Stack
 React · TypeScript · C# / ASP.NET Core · SQL Server · Azure (Functions, Container Apps, Service Bus, DevOps) · Playwright · Docker · CI/CD
